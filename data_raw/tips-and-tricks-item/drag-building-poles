@@ -12,15 +12,19 @@
   },
   skip_trigger = {
     build_by_dragging = true,
+    consecutive = true,
     count = 3,
     entity = "small-electric-pole",
+    linear_power_pole_line = true,
     match_type_only = true,
     type = "build-entity"
   },
   tag = "[entity=small-electric-pole]",
   trigger = {
-    count = 15,
+    consecutive = true,
+    count = 7,
     entity = "small-electric-pole",
+    linear_power_pole_line = true,
     match_type_only = true,
     type = "build-entity"
   },

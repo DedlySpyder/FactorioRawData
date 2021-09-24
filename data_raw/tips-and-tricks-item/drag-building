@@ -11,11 +11,15 @@
   },
   skip_trigger = {
     build_by_dragging = true,
-    count = 10,
+    build_in_line = true,
+    consecutive = true,
+    count = 5,
     type = "build-entity"
   },
   trigger = {
-    count = 60,
+    build_in_line = true,
+    consecutive = true,
+    count = 4,
     type = "build-entity"
   },
   type = "tips-and-tricks-item"

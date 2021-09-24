@@ -6,7 +6,7 @@
   },
   alt_selection_cursor_box_type = "copy",
   alt_selection_mode = {
-    "deconstruct"
+    "blueprint"
   },
   cuts = true,
   draw_label_for_cursor_render = true,
@@ -27,7 +27,8 @@
   },
   selection_cursor_box_type = "copy",
   selection_mode = {
-    "deconstruct"
+    "blueprint",
+    "avoid-rolling-stock"
   },
   stack_size = 1,
   subgroup = "tool",
