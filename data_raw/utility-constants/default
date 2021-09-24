@@ -274,6 +274,12 @@
       g = 1,
       r = 0
     },
+    pollution_color = {
+      a = 149,
+      b = 0,
+      g = 0,
+      r = 140
+    },
     rail_color = {
       b = 0.55,
       g = 0.55,
