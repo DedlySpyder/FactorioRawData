@@ -5,9 +5,5 @@ If you're looking for a specific prototype on GitHub, press `t` to search by fil
 
 
 # Generation
-This isn't on the mod portal, but if for some reason you want to generate this with mod data then setup for this is the following:
+This dump is created using my [Data Analysis Tool](https://github.com/DedlySpyder/FactorioTooling/tree/main/tools/data_analysis), uisng a `final` dump without any extra mods.
 
-1. Download [Factorio headless](https://factorio.com/get-download/latest/headless/linux64) to the `factorio/` directory.
-   1a. Optional: Added any desired mods to the `factorio/mod` directory
-2. Run the `scripts/build_docs.py` script with python 3.5 or newer (developed on 3.6.8)
-3. All prototypes should be in the `data_raw` directory
