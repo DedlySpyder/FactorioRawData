@@ -1,5 +1,8 @@
 {
   category = "trains",
+  dependencies = {
+    "trains"
+  },
   indent = 1,
   name = "rail-signals-basic",
   order = "d",

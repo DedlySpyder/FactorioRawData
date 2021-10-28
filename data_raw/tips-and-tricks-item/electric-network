@@ -25,23 +25,31 @@
             type = "and"
           },
           {
-            ticks = 18000,
+            ticks = 54000,
             type = "time-elapsed"
           }
         },
         type = "sequence"
       },
       {
-        entity = "steam-engine",
-        type = "build-entity"
+        event_type = "crafting-finished",
+        item = "small-electric-pole",
+        type = "craft-item"
       },
       {
-        entity = "boiler",
-        type = "build-entity"
+        event_type = "crafting-finished",
+        item = "steam-engine",
+        type = "craft-item"
       },
       {
-        entity = "offshore-pump",
-        type = "build-entity"
+        event_type = "crafting-finished",
+        item = "boiler",
+        type = "craft-item"
+      },
+      {
+        event_type = "crafting-finished",
+        item = "offshore-pump",
+        type = "craft-item"
       }
     },
     type = "or"

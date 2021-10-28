@@ -12,8 +12,19 @@
   },
   tag = "[entity=pump]",
   trigger = {
-    entity = "fluid-wagon",
-    type = "build-entity"
+    triggers = {
+      {
+        count = 2,
+        entity = "train-stop",
+        type = "build-entity"
+      },
+      {
+        event_type = "crafting-finished",
+        item = "fluid-wagon",
+        type = "craft-item"
+      }
+    },
+    type = "and"
   },
   type = "tips-and-tricks-item"
 }

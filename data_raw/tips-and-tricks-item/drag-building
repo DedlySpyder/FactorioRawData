@@ -17,6 +17,7 @@
     type = "build-entity"
   },
   trigger = {
+    build_by_dragging = false,
     build_in_line = true,
     consecutive = true,
     count = 4,

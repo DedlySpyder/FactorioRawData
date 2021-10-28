@@ -1,7 +1,7 @@
 {
   category = "copy-paste",
   dependencies = {
-    "copy-paste"
+    "copy-entity-settings"
   },
   indent = 1,
   name = "copy-paste-requester-chest",

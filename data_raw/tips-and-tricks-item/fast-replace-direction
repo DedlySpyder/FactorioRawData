@@ -1,5 +1,8 @@
 {
   category = "fast-replace",
+  dependencies = {
+    "belt-lanes"
+  },
   indent = 1,
   name = "fast-replace-direction",
   order = "b",

@@ -18489,10 +18489,9 @@
         17
       }
     },
-    height = 32,
-    margin = 4,
+    height = 40,
     type = "empty_widget_style",
-    width = 44
+    width = 52
   },
   tool_bar_open_button = {
     parent = "quick_bar_page_button",

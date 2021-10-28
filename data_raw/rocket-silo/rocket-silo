@@ -318,7 +318,7 @@
   icon_mipmaps = 4,
   icon_size = 64,
   idle_energy_usage = "10KW",
-  lamp_energy_usage = "10KW",
+  lamp_energy_usage = "0KW",
   light_blinking_speed = 0.0055555555555555554,
   max_health = 5000,
   minable = {

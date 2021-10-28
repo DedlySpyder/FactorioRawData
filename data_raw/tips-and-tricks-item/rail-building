@@ -11,8 +11,9 @@
   },
   tag = "[item=rail]",
   trigger = {
-    entity = "straight-rail",
-    type = "build-entity"
+    event_type = "crafting-finished",
+    item = "rail",
+    type = "craft-item"
   },
   type = "tips-and-tricks-item"
 }

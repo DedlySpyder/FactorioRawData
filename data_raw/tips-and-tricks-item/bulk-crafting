@@ -6,23 +6,18 @@
   image = "__base__/graphics/tips-and-tricks/bulk-crafting.png",
   name = "bulk-crafting",
   order = "j",
+  skip_trigger = {
+    consecutive = true,
+    count = 3,
+    event_type = "crafting-of-multiple-items-ordered",
+    type = "craft-item"
+  },
   tag = "[item=iron-gear-wheel]",
   trigger = {
-    triggers = {
-      {
-        consecutive = true,
-        count = 5,
-        event_type = "crafting-of-single-item-ordered",
-        type = "craft-item"
-      },
-      {
-        consecutive = true,
-        count = 10,
-        event_type = "crafting-of-multiple-items-ordered",
-        type = "craft-item"
-      }
-    },
-    type = "or"
+    consecutive = true,
+    count = 5,
+    event_type = "crafting-of-single-item-ordered",
+    type = "craft-item"
   },
   type = "tips-and-tricks-item"
 }
