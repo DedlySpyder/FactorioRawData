@@ -6,5 +6,9 @@
   image = "__base__/graphics/tips-and-tricks/clear-cursor.png",
   name = "clear-cursor",
   order = "d",
+  skip_trigger = {
+    count = 5,
+    type = "clear-cursor"
+  },
   type = "tips-and-tricks-item"
 }

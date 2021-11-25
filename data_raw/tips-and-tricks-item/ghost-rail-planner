@@ -24,6 +24,10 @@
             event_type = "crafting-finished",
             item = "personal-roboport-equipment",
             type = "craft-item"
+          },
+          {
+            equipment = "personal-roboport-equipment",
+            type = "place-equipment"
           }
         },
         type = "or"

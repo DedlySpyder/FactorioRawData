@@ -12,7 +12,7 @@
   },
   trigger = {
     recipe = "transport-belt",
-    type = "unlocked-recipe"
+    type = "unlock-recipe"
   },
   type = "tips-and-tricks-item"
 }

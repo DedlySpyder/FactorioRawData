@@ -15,11 +15,11 @@
             triggers = {
               {
                 recipe = "steam-engine",
-                type = "unlocked-recipe"
+                type = "unlock-recipe"
               },
               {
                 recipe = "boiler",
-                type = "unlocked-recipe"
+                type = "unlock-recipe"
               }
             },
             type = "and"

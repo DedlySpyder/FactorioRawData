@@ -12,7 +12,7 @@
   },
   trigger = {
     recipe = "inserter",
-    type = "unlocked-recipe"
+    type = "unlock-recipe"
   },
   type = "tips-and-tricks-item"
 }
