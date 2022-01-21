@@ -63,6 +63,7 @@
       width = 32
     }
   },
+  protected_from_tile_building = false,
   selection_box = {
     {
       -0.5,

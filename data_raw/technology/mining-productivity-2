@@ -30,7 +30,7 @@
   },
   type = "technology",
   unit = {
-    count = "500",
+    count = 500,
     ingredients = {
       {
         "automation-science-pack",
