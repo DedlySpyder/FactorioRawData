@@ -18433,6 +18433,14 @@
     parent = "inside_deep_frame",
     type = "frame_style"
   },
+  tips_and_tricks_info_frame_small_screen = {
+    natural_size = {
+      768,
+      648
+    },
+    parent = "tips_and_tricks_info_frame",
+    type = "frame_style"
+  },
   tips_and_tricks_simulation = {
     bottom_margin = -4,
     horizontally_squashable = "on",
@@ -19611,6 +19619,12 @@
     natural_height = 1008,
     natural_width = 1148,
     parent = "deep_frame_in_shallow_frame",
+    type = "frame_style"
+  },
+  trains_gui_deep_frame_small_screen = {
+    natural_height = 684,
+    natural_width = 580,
+    parent = "trains_gui_deep_frame",
     type = "frame_style"
   },
   trains_gui_frame = {

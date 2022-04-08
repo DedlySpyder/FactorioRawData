@@ -1,8 +1,8 @@
 {
   armor_picture_mapping = {
     ["heavy-armor"] = 2,
-    ["light-armor"] = 2,
-    ["modular-armor"] = 3,
+    ["light-armor"] = 1,
+    ["modular-armor"] = 2,
     ["power-armor"] = 3,
     ["power-armor-mk2"] = 3
   },
