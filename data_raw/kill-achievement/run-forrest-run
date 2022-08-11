@@ -1,5 +1,6 @@
 {
   amount = 100,
+  damage_type = "impact",
   icon = "__base__/graphics/achievement/run-forrest-run.png",
   icon_size = 128,
   in_vehicle = true,

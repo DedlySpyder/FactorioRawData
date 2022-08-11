@@ -1338,6 +1338,15 @@
       type = "vertical_scrollbar_style"
     }
   },
+  bold_black_label = {
+    font_color = {
+      0,
+      0,
+      0
+    },
+    parent = "bold_label",
+    type = "label_style"
+  },
   bold_green_label = {
     font_color = {
       0,
@@ -11007,6 +11016,18 @@
     top_margin = 1,
     type = "button_style"
   },
+  mini_tool_button_red = {
+    left_click_sound = {
+      {
+        filename = "__core__/sound/gui-tool-button.ogg",
+        volume = 1
+      }
+    },
+    padding = 0,
+    parent = "red_button",
+    size = 16,
+    type = "button_style"
+  },
   minimap = {
     graphical_set = {},
     minimal_height = 256,
@@ -17050,6 +17071,33 @@
     right_button_position = 16,
     type = "switch_style",
     width = 32
+  },
+  sync_mods_default_status_frame = {
+    padding = 4,
+    parent = "naked_frame",
+    type = "frame_style"
+  },
+  sync_mods_downloading_status_frame = {
+    graphical_set = {
+      base = {
+        corner_size = 8,
+        position = {
+          412,
+          86
+        }
+      },
+      shadow = 0 --[=[ ref [""].available_technology_slot.clicked_graphical_set.shadow ]=]
+    },
+    padding = 0,
+    parent = "sync_mods_default_status_frame",
+    type = "frame_style"
+  },
+  sync_mods_table = {
+    cell_padding = 0,
+    left_cell_padding = 4,
+    parent = "bordered_table",
+    right_cell_padding = 4,
+    type = "table_style"
   },
   tab = {
     badge_font = "default-tiny-bold",
