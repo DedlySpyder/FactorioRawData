@@ -574,6 +574,7 @@
   flow_length_in_ticks = 360,
   fluid_box = {
     base_area = 250,
+    hide_connection_info = true,
     pipe_connections = {
       {
         position = {
