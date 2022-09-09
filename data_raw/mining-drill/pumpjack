@@ -800,7 +800,8 @@
             -2,
             1
           }
-        }
+        },
+        type = "output"
       }
     },
     pipe_covers = {

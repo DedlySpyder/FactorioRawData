@@ -595,7 +595,8 @@
           position = {
             -1,
             2
-          }
+          },
+          type = "output"
         }
       },
       pipe_covers = {
@@ -737,7 +738,8 @@
           position = {
             1,
             2
-          }
+          },
+          type = "output"
         }
       },
       pipe_covers = {
