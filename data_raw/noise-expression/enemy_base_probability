@@ -164,6 +164,10 @@
                   },
                   type = "function-application"
                 },
+                source_location = {
+                  filename = "__base__/prototypes/entity/enemy-autoplace-utils.lua",
+                  line_number = 44
+                },
                 type = "literal-expression"
               },
               hard_region_target_quantity = {
@@ -215,14 +219,26 @@
                   },
                   type = "literal-number"
                 },
+                source_location = {
+                  filename = "__base__/prototypes/entity/enemy-autoplace-utils.lua",
+                  line_number = 48
+                },
                 type = "literal-expression"
               },
               spot_quantity_expression = {
                 literal_value = 0 --[=[ ref [""].expression.arguments[1].arguments[1].arguments.density_expression.literal_value.arguments[1] ]=],
+                source_location = {
+                  filename = "__base__/prototypes/entity/enemy-autoplace-utils.lua",
+                  line_number = 45
+                },
                 type = "literal-expression"
               },
               spot_radius_expression = {
                 literal_value = 0 --[=[ ref [""].expression.arguments[1].arguments[1].arguments.density_expression.literal_value.arguments[1].arguments[1].arguments[1].arguments[2] ]=],
+                source_location = {
+                  filename = "__base__/prototypes/entity/enemy-autoplace-utils.lua",
+                  line_number = 47
+                },
                 type = "literal-expression"
               },
               x = {

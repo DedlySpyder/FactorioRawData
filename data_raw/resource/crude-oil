@@ -967,6 +967,10 @@
                           },
                           type = "function-application"
                         },
+                        source_location = {
+                          filename = "__core__/lualib/resource-autoplace.lua",
+                          line_number = 265
+                        },
                         type = "literal-expression"
                       },
                       hard_region_target_quantity = {
@@ -1033,6 +1037,10 @@
                             line_number = 452
                           },
                           type = "literal-number"
+                        },
+                        source_location = {
+                          filename = "__core__/lualib/resource-autoplace.lua",
+                          line_number = 269
                         },
                         type = "literal-expression"
                       },
@@ -1301,6 +1309,10 @@
                           },
                           type = "function-application"
                         },
+                        source_location = {
+                          filename = "__core__/lualib/resource-autoplace.lua",
+                          line_number = 266
+                        },
                         type = "literal-expression"
                       },
                       spot_radius_expression = {
@@ -1353,6 +1365,10 @@
                           function_name = "clamp",
                           source_location = 0 --[=[ ref [""].autoplace.probability_expression.arguments[1].arguments[1].expression.arguments[1].arguments.spot_radius_expression.literal_value.arguments[1].source_location ]=],
                           type = "function-application"
+                        },
+                        source_location = {
+                          filename = "__core__/lualib/resource-autoplace.lua",
+                          line_number = 268
                         },
                         type = "literal-expression"
                       },
@@ -2123,8 +2139,8 @@
                 type = "function-application"
               },
               source_location = {
-                filename = "__core__/lualib/noise.lua",
-                line_number = 303
+                filename = "__core__/lualib/resource-autoplace.lua",
+                line_number = 373
               },
               type = "procedure-delimiter"
             },
