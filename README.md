@@ -5,5 +5,5 @@ If you're looking for a specific prototype on GitHub, press `t` to search by fil
 
 
 # Generation
-This dump is created using my [Data Analysis Tool](https://github.com/DedlySpyder/FactorioTooling/tree/main/tools/data_analysis), uisng a `final` dump without any extra mods.
+This dump is created using my [Data Analysis Tool](https://github.com/DedlySpyder/factorio-data-analysis), uisng a `final` dump without any extra mods.
 
