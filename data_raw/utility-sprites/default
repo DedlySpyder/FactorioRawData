@@ -3131,7 +3131,7 @@
   show_electric_network_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3142,7 +3142,7 @@
   show_electric_network_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3153,7 +3153,7 @@
   show_logistics_network_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3164,7 +3164,7 @@
   show_logistics_network_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3175,7 +3175,7 @@
   show_player_names_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3186,7 +3186,7 @@
   show_player_names_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3197,7 +3197,7 @@
   show_pollution_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3208,7 +3208,7 @@
   show_pollution_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3219,7 +3219,7 @@
   show_rail_signal_states_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3230,7 +3230,7 @@
   show_rail_signal_states_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3241,7 +3241,7 @@
   show_recipe_icons_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3252,7 +3252,7 @@
   show_recipe_icons_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3263,7 +3263,7 @@
   show_tags_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3274,7 +3274,7 @@
   show_tags_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3285,7 +3285,7 @@
   show_train_station_names_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3296,7 +3296,7 @@
   show_train_station_names_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3307,7 +3307,7 @@
   show_turret_range_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3318,7 +3318,7 @@
   show_turret_range_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3329,7 +3329,7 @@
   show_worker_robots_in_map_view = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3340,7 +3340,7 @@
   show_worker_robots_in_map_view_black = {
     filename = "__core__/graphics/icons/mip/side-map-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3361,7 +3361,7 @@
   side_menu_achievements_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3372,7 +3372,7 @@
   side_menu_achievements_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3383,7 +3383,7 @@
   side_menu_blueprint_library_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3394,7 +3394,7 @@
   side_menu_blueprint_library_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3405,7 +3405,7 @@
   side_menu_bonus_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3416,7 +3416,7 @@
   side_menu_bonus_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3427,7 +3427,7 @@
   side_menu_map_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3438,7 +3438,7 @@
   side_menu_map_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3449,7 +3449,7 @@
   side_menu_menu_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3460,7 +3460,7 @@
   side_menu_menu_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3471,7 +3471,7 @@
   side_menu_production_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3482,7 +3482,7 @@
   side_menu_production_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3493,7 +3493,7 @@
   side_menu_train_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3504,7 +3504,7 @@
   side_menu_train_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3515,7 +3515,7 @@
   side_menu_tutorials_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",
@@ -3526,7 +3526,7 @@
   side_menu_tutorials_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
-      "icon"
+      "gui-icon"
     },
     mipmap_count = 2,
     priority = "high",

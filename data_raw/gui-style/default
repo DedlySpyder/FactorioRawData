@@ -13577,6 +13577,50 @@
     parent = "dialog_button",
     type = "button_style"
   },
+  red_inventory_slot = {
+    clicked_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          400,
+          816
+        },
+        size = 80
+      }
+    },
+    default_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          240,
+          816
+        },
+        size = 80
+      }
+    },
+    hovered_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          320,
+          816
+        },
+        size = 80
+      }
+    },
+    parent = "inventory_slot",
+    selected_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          320,
+          816
+        },
+        size = 80
+      }
+    },
+    type = "button_style"
+  },
   red_logistic_slot_button = {
     parent = "red_slot_button",
     type = "button_style"
@@ -20649,6 +20693,50 @@
     },
     left_click_sound = {},
     parent = "green_slot",
+    type = "button_style"
+  },
+  yellow_inventory_slot = {
+    clicked_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          160,
+          816
+        },
+        size = 80
+      }
+    },
+    default_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          0,
+          816
+        },
+        size = 80
+      }
+    },
+    hovered_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          80,
+          816
+        },
+        size = 80
+      }
+    },
+    parent = "inventory_slot",
+    selected_graphical_set = {
+      base = {
+        border = 4,
+        position = {
+          80,
+          816
+        },
+        size = 80
+      }
+    },
     type = "button_style"
   },
   yellow_label = {

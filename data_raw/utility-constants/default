@@ -346,7 +346,8 @@
       b = 0,
       g = 1,
       r = 1
-    }
+    },
+    zoom_threshold_to_draw_spider_path = 0.5
   },
   checkerboard_black = {
     42,
