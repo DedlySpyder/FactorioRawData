@@ -497,25 +497,34 @@
   },
   type = "constant-combinator",
   vehicle_impact_sound = {
-    {
-      filename = "__base__/sound/car-metal-impact-2.ogg",
-      volume = 0.5
+    game_controller_vibration_data = {
+      duration = 150,
+      low_frequency_vibration_intensity = 0.9
     },
-    {
-      filename = "__base__/sound/car-metal-impact-3.ogg",
-      volume = 0.5
+    switch_vibration_data = {
+      filename = "__base__/sound/car-metal-impact.bnvib"
     },
-    {
-      filename = "__base__/sound/car-metal-impact-4.ogg",
-      volume = 0.5
-    },
-    {
-      filename = "__base__/sound/car-metal-impact-5.ogg",
-      volume = 0.5
-    },
-    {
-      filename = "__base__/sound/car-metal-impact-6.ogg",
-      volume = 0.5
+    variations = {
+      {
+        filename = "__base__/sound/car-metal-impact-2.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-metal-impact-3.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-metal-impact-4.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-metal-impact-5.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-metal-impact-6.ogg",
+        volume = 0.5
+      }
     }
   }
 } --[[incomplete output with shared/self-references skipped]]

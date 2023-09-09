@@ -48,6 +48,10 @@
     projectile_creation_distance = 0.6,
     range = 10,
     sound = {
+      game_controller_vibration_data = {
+        duration = 100,
+        low_frequency_vibration_intensity = 0.5
+      },
       switch_vibration_data = {
         filename = "__base__/sound/fight/pulse.bnvib"
       },

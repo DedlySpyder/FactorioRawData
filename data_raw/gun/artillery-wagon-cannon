@@ -1824,6 +1824,11 @@
       vertical_speed_deviation = 0.01
     },
     sound = {
+      game_controller_vibration_data = {
+        duration = 150,
+        low_frequency_vibration_intensity = 1,
+        play_for = "everything"
+      },
       switch_vibration_data = {
         filename = "__base__/sound/fight/artillery-shoots.bnvib",
         play_for = "everything"

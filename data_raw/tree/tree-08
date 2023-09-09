@@ -2200,21 +2200,31 @@
     }
   },
   vehicle_impact_sound = {
-    {
-      filename = "__base__/sound/car-tree-wood-impact-01.ogg",
-      volume = 0.5
+    game_controller_vibration_data = {
+      duration = 110,
+      low_frequency_vibration_intensity = 0.6
     },
-    {
-      filename = "__base__/sound/car-tree-wood-impact-02.ogg",
-      volume = 0.5
+    switch_vibration_data = {
+      filename = "__base__/sound/car-tree-wood-impact.bnvib",
+      gain = 0.6
     },
-    {
-      filename = "__base__/sound/car-tree-wood-impact-03.ogg",
-      volume = 0.5
-    },
-    {
-      filename = "__base__/sound/car-tree-wood-impact-04.ogg",
-      volume = 0.5
+    variations = {
+      {
+        filename = "__base__/sound/car-tree-wood-impact-01.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-tree-wood-impact-02.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-tree-wood-impact-03.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-tree-wood-impact-04.ogg",
+        volume = 0.5
+      }
     }
   }
 } --[[incomplete output with shared/self-references skipped]]

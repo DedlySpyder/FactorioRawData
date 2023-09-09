@@ -41,6 +41,11 @@
               max_count = 1,
               remove = true
             },
+            game_controller_vibration_data = {
+              duration = 800,
+              low_frequency_vibration_intensity = 1,
+              play_for = "everything"
+            },
             switch_vibration_data = {
               filename = "__base__/sound/fight/nuclear-explosion.bnvib",
               play_for = "everything"

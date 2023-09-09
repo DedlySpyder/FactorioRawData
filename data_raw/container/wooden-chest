@@ -261,25 +261,35 @@
   },
   type = "container",
   vehicle_impact_sound = {
-    {
-      filename = "__base__/sound/car-wood-impact.ogg",
-      volume = 0.5
+    game_controller_vibration_data = {
+      duration = 150,
+      low_frequency_vibration_intensity = 0.45
     },
-    {
-      filename = "__base__/sound/car-wood-impact-02.ogg",
-      volume = 0.5
+    switch_vibration_data = {
+      filename = "__base__/sound/car-wood-impact.bnvib",
+      gain = 0.5
     },
-    {
-      filename = "__base__/sound/car-wood-impact-03.ogg",
-      volume = 0.5
-    },
-    {
-      filename = "__base__/sound/car-wood-impact-04.ogg",
-      volume = 0.5
-    },
-    {
-      filename = "__base__/sound/car-wood-impact-05.ogg",
-      volume = 0.5
+    variations = {
+      {
+        filename = "__base__/sound/car-wood-impact.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-wood-impact-02.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-wood-impact-03.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-wood-impact-04.ogg",
+        volume = 0.5
+      },
+      {
+        filename = "__base__/sound/car-wood-impact-05.ogg",
+        volume = 0.5
+      }
     }
   }
 }

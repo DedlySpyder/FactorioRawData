@@ -7,6 +7,10 @@
     projectile_creation_distance = 1.125,
     range = 15,
     sound = {
+      game_controller_vibration_data = {
+        duration = 100,
+        high_frequency_vibration_intensity = 0.6
+      },
       switch_vibration_data = {
         filename = "__base__/sound/fight/pump-shotgun.bnvib"
       },

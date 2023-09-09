@@ -65,6 +65,11 @@
                 max_count = 1,
                 remove = true
               },
+              game_controller_vibration_data = {
+                duration = 50,
+                high_frequency_vibration_intensity = 0.4,
+                play_for = "everything"
+              },
               switch_vibration_data = {
                 filename = "__base__/sound/fight/poison-capsule-explosion.bnvib",
                 gain = 0.3,

@@ -55,6 +55,10 @@
     }
   },
   axe_mining_ore = {
+    game_controller_vibration_data = {
+      duration = 70,
+      high_frequency_vibration_intensity = 0.8
+    },
     switch_vibration_data = {
       filename = "__core__/sound/axe-mining-ore.bnvib"
     },
@@ -390,6 +394,10 @@
     }
   },
   mining_wood = {
+    game_controller_vibration_data = {
+      duration = 70,
+      high_frequency_vibration_intensity = 0.8
+    },
     switch_vibration_data = {
       filename = "__core__/sound/mining-wood.bnvib"
     },
