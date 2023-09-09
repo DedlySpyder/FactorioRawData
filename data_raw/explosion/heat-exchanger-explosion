@@ -184,6 +184,10 @@
       remove = true
     },
     audible_distance_modifier = 0.7,
+    switch_vibration_data = {
+      filename = "__base__/sound/fight/medium-explosion.bnvib",
+      gain = 0.4
+    },
     variations = {
       {
         filename = "__base__/sound/fight/medium-explosion-1.ogg",

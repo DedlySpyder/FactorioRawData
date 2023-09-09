@@ -17,7 +17,7 @@
                 {
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 672
+                    line_number = 731
                   },
                   type = "variable",
                   variable_name = "elevation"
@@ -26,7 +26,7 @@
               function_name = "subtract",
               source_location = {
                 filename = "__base__/prototypes/tile/tiles.lua",
-                line_number = 673
+                line_number = 732
               },
               type = "function-application"
             },
@@ -42,7 +42,7 @@
           function_name = "multiply",
           source_location = {
             filename = "__base__/prototypes/tile/tiles.lua",
-            line_number = 681
+            line_number = 740
           },
           type = "function-application"
         },
@@ -50,7 +50,7 @@
           literal_value = -1/0 --[[-math.huge]],
           source_location = {
             filename = "__base__/prototypes/tile/tiles.lua",
-            line_number = 681
+            line_number = 740
           },
           type = "literal-number"
         },
@@ -71,7 +71,7 @@
                   literal_value = -1/0 --[[-math.huge]],
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 676
+                    line_number = 735
                   },
                   type = "literal-number"
                 },
@@ -89,7 +89,7 @@
           function_name = "multiply",
           source_location = {
             filename = "__base__/prototypes/tile/tiles.lua",
-            line_number = 676
+            line_number = 735
           },
           type = "function-application"
         }

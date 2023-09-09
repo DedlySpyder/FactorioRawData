@@ -41,6 +41,10 @@
               max_count = 1,
               remove = true
             },
+            switch_vibration_data = {
+              filename = "__base__/sound/fight/nuclear-explosion.bnvib",
+              play_for = "everything"
+            },
             variations = {
               {
                 filename = "__base__/sound/fight/nuclear-explosion-1.ogg",

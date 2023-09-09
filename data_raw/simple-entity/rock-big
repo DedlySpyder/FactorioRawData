@@ -212,7 +212,16 @@
     result = "stone"
   },
   mined_sound = {
-    filename = "__base__/sound/deconstruct-bricks.ogg"
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-bricks.bnvib",
+      gain = 0.32000000000000002
+    },
+    variations = {
+      {
+        filename = "__base__/sound/deconstruct-bricks.ogg",
+        volume = 1
+      }
+    }
   },
   name = "rock-big",
   order = "b[decorative]-l[rock]-b[big]",

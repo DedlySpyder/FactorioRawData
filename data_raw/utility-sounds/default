@@ -24,6 +24,9 @@
     }
   },
   axe_fighting = {
+    switch_vibration_data = {
+      filename = "__core__/sound/axe-meat.bnvib"
+    },
     variations = {
       {
         filename = "__core__/sound/axe-meat-1.ogg",
@@ -52,6 +55,9 @@
     }
   },
   axe_mining_ore = {
+    switch_vibration_data = {
+      filename = "__core__/sound/axe-mining-ore.bnvib"
+    },
     variations = {
       {
         filename = "__core__/sound/axe-mining-ore-1.ogg",
@@ -124,21 +130,39 @@
     }
   },
   build_large = {
-    {
-      filename = "__core__/sound/build-large.ogg",
-      volume = 0.7
+    switch_vibration_data = {
+      filename = "__core__/sound/build-large.bnvib",
+      gain = 0.3
+    },
+    variations = {
+      {
+        filename = "__core__/sound/build-large.ogg",
+        volume = 0.7
+      }
     }
   },
   build_medium = {
-    {
-      filename = "__core__/sound/build-medium.ogg",
-      volume = 0.7
+    switch_vibration_data = {
+      filename = "__core__/sound/build-medium.bnvib",
+      gain = 0.25
+    },
+    variations = {
+      {
+        filename = "__core__/sound/build-medium.ogg",
+        volume = 0.7
+      }
     }
   },
   build_small = {
-    {
-      filename = "__core__/sound/build-small.ogg",
-      volume = 0.7
+    switch_vibration_data = {
+      filename = "__core__/sound/build-small.bnvib",
+      gain = 0.2
+    },
+    variations = {
+      {
+        filename = "__core__/sound/build-small.ogg",
+        volume = 0.7
+      }
     }
   },
   cancel_deconstruction_selection_ended = {
@@ -187,6 +211,10 @@
     }
   },
   deconstruct_big = {
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-large.bnvib",
+      gain = 0.25
+    },
     variations = {
       {
         filename = "__core__/sound/deconstruct-large.ogg",
@@ -195,6 +223,10 @@
     }
   },
   deconstruct_medium = {
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-medium.bnvib",
+      gain = 0.25
+    },
     variations = {
       {
         filename = "__core__/sound/deconstruct-medium.ogg",
@@ -209,8 +241,15 @@
     }
   },
   deconstruct_small = {
-    {
-      filename = "__core__/sound/deconstruct-small.ogg"
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-small.bnvib",
+      gain = 0.25
+    },
+    variations = {
+      {
+        filename = "__core__/sound/deconstruct-small.ogg",
+        volume = 1
+      }
     }
   },
   deconstruction_selection_ended = {
@@ -351,6 +390,9 @@
     }
   },
   mining_wood = {
+    switch_vibration_data = {
+      filename = "__core__/sound/mining-wood.bnvib"
+    },
     variations = {
       {
         filename = "__core__/sound/mining-wood-1.ogg",

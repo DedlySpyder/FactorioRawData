@@ -99,7 +99,16 @@
     result = "land-mine"
   },
   mined_sound = {
-    filename = "__core__/sound/deconstruct-small.ogg"
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-small.bnvib",
+      gain = 0.25
+    },
+    variations = {
+      {
+        filename = "__core__/sound/deconstruct-small.ogg",
+        volume = 1
+      }
+    }
   },
   name = "land-mine",
   open_sound = {

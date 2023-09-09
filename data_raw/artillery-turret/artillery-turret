@@ -574,8 +574,16 @@
     result = "artillery-turret"
   },
   mined_sound = {
-    filename = "__core__/sound/deconstruct-large.ogg",
-    volume = 0.8
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-large.bnvib",
+      gain = 0.25
+    },
+    variations = {
+      {
+        filename = "__core__/sound/deconstruct-large.ogg",
+        volume = 0.8
+      }
+    }
   },
   name = "artillery-turret",
   open_sound = {

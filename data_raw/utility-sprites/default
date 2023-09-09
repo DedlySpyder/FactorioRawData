@@ -646,6 +646,1766 @@
     x = 1,
     y = 1
   },
+  controller_joycon_a = {
+    filename = "__core__/graphics/icons/controller/joycon/color/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_b = {
+    filename = "__core__/graphics/icons/controller/joycon/color/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_back = {
+    filename = "__core__/graphics/icons/controller/joycon/color/minus.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_a = {
+    filename = "__core__/graphics/icons/controller/joycon/black/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_b = {
+    filename = "__core__/graphics/icons/controller/joycon/black/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_back = {
+    filename = "__core__/graphics/icons/controller/joycon/black/minus.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_dpdown = {
+    filename = "__core__/graphics/icons/controller/joycon/black/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_dpleft = {
+    filename = "__core__/graphics/icons/controller/joycon/black/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_dpright = {
+    filename = "__core__/graphics/icons/controller/joycon/black/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_dpup = {
+    filename = "__core__/graphics/icons/controller/joycon/black/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/joycon/black/ZL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_paddle1 = {
+    filename = "__core__/graphics/icons/controller/joycon/black/SL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_paddle2 = {
+    filename = "__core__/graphics/icons/controller/joycon/black/SR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_paddle3 = {
+    filename = "__core__/graphics/icons/controller/joycon/black/SR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_paddle4 = {
+    filename = "__core__/graphics/icons/controller/joycon/black/SL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_righttrigger = {
+    filename = "__core__/graphics/icons/controller/joycon/black/ZR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_start = {
+    filename = "__core__/graphics/icons/controller/joycon/black/plus.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_x = {
+    filename = "__core__/graphics/icons/controller/joycon/black/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_black_y = {
+    filename = "__core__/graphics/icons/controller/joycon/black/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_dpdown = {
+    filename = "__core__/graphics/icons/controller/joycon/color/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_dpleft = {
+    filename = "__core__/graphics/icons/controller/joycon/color/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_dpright = {
+    filename = "__core__/graphics/icons/controller/joycon/color/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_dpup = {
+    filename = "__core__/graphics/icons/controller/joycon/color/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/joycon/color/ZL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_paddle1 = {
+    filename = "__core__/graphics/icons/controller/joycon/color/SL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_paddle2 = {
+    filename = "__core__/graphics/icons/controller/joycon/color/SR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_paddle3 = {
+    filename = "__core__/graphics/icons/controller/joycon/color/SR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_paddle4 = {
+    filename = "__core__/graphics/icons/controller/joycon/color/SL.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_righttrigger = {
+    filename = "__core__/graphics/icons/controller/joycon/color/ZR.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_start = {
+    filename = "__core__/graphics/icons/controller/joycon/color/plus.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_x = {
+    filename = "__core__/graphics/icons/controller/joycon/color/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_joycon_y = {
+    filename = "__core__/graphics/icons/controller/joycon/color/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_a = {
+    filename = "__core__/graphics/icons/controller/ps/color/cross.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_b = {
+    filename = "__core__/graphics/icons/controller/ps/color/circle.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_back = {
+    filename = "__core__/graphics/icons/controller/ps/color/share.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_a = {
+    filename = "__core__/graphics/icons/controller/ps/black/cross.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_b = {
+    filename = "__core__/graphics/icons/controller/ps/black/circle.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_back = {
+    filename = "__core__/graphics/icons/controller/ps/black/share.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/ps/black/L1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/ps/black/L2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/ps/black/R1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_righttrigger = {
+    filename = "__core__/graphics/icons/controller/ps/black/R2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_start = {
+    filename = "__core__/graphics/icons/controller/ps/black/options.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_x = {
+    filename = "__core__/graphics/icons/controller/ps/black/square.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_black_y = {
+    filename = "__core__/graphics/icons/controller/ps/black/triangle.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/ps/color/L1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/ps/color/L2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/ps/color/R1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_righttrigger = {
+    filename = "__core__/graphics/icons/controller/ps/color/R2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_start = {
+    filename = "__core__/graphics/icons/controller/ps/color/options.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_x = {
+    filename = "__core__/graphics/icons/controller/ps/color/square.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_ps_y = {
+    filename = "__core__/graphics/icons/controller/ps/color/triangle.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_a = {
+    filename = "__core__/graphics/icons/controller/joycon/color/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_b = {
+    filename = "__core__/graphics/icons/controller/joycon/color/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_back = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/square.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_a = {
+    filename = "__core__/graphics/icons/controller/joycon/black/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_b = {
+    filename = "__core__/graphics/icons/controller/joycon/black/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_back = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/square.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/L1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/L2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_paddle1 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/L4.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_paddle2 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/L5.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_paddle3 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/R4.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_paddle4 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/R5.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/R1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_righttrigger = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/R2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_start = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/menu.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_x = {
+    filename = "__core__/graphics/icons/controller/joycon/black/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_black_y = {
+    filename = "__core__/graphics/icons/controller/joycon/black/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/L1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/L2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_paddle1 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/L4.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_paddle2 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/L5.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_paddle3 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/R4.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_paddle4 = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/R5.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/R1.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_righttrigger = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/R2.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_start = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/menu.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_x = {
+    filename = "__core__/graphics/icons/controller/joycon/color/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_steamdeck_y = {
+    filename = "__core__/graphics/icons/controller/joycon/color/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_a = {
+    filename = "__core__/graphics/icons/controller/joycon/color/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_b = {
+    filename = "__core__/graphics/icons/controller/joycon/color/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_back = {
+    filename = "__core__/graphics/icons/controller/xbox/color/windows.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_a = {
+    filename = "__core__/graphics/icons/controller/joycon/black/A.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_b = {
+    filename = "__core__/graphics/icons/controller/joycon/black/B.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_back = {
+    filename = "__core__/graphics/icons/controller/xbox/black/windows.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/black/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/xbox/black/LB.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/xbox/black/LT.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/xbox/black/RB.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/black/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_righttrigger = {
+    filename = "__core__/graphics/icons/controller/xbox/black/RT.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_start = {
+    filename = "__core__/graphics/icons/controller/steam-deck/black/menu.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_x = {
+    filename = "__core__/graphics/icons/controller/joycon/black/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_black_y = {
+    filename = "__core__/graphics/icons/controller/joycon/black/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_dpdown = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-down.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_dpleft = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-left.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_dpright = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-right.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_dpup = {
+    filename = "__core__/graphics/icons/controller/ps/color/dpad-up.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_left_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_leftshoulder = {
+    filename = "__core__/graphics/icons/controller/xbox/color/LB.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_leftstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/L-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_lefttrigger = {
+    filename = "__core__/graphics/icons/controller/xbox/color/LT.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_right_stick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_rightshoulder = {
+    filename = "__core__/graphics/icons/controller/xbox/color/RB.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_rightstick = {
+    filename = "__core__/graphics/icons/controller/joycon/color/R-stick-press.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_righttrigger = {
+    filename = "__core__/graphics/icons/controller/xbox/color/RT.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_start = {
+    filename = "__core__/graphics/icons/controller/steam-deck/color/menu.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_x = {
+    filename = "__core__/graphics/icons/controller/joycon/color/X.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
+  controller_xbox_y = {
+    filename = "__core__/graphics/icons/controller/joycon/color/Y.png",
+    flags = {
+      "gui-icon"
+    },
+    height = 40,
+    load_in_minimal_mode = true,
+    mipmap_count = 2,
+    scale = 0.5,
+    width = 40
+  },
   copper_wire = {
     filename = "__core__/graphics/copper-wire.png",
     flags = {
@@ -690,6 +2450,16 @@
     priority = "extra-high-no-scale",
     scale = 0.6,
     width = 101
+  },
+  cross_select = {
+    filename = "__core__/graphics/cross-select-x32.png",
+    flags = {
+      "gui-icon"
+    },
+    load_in_minimal_mode = true,
+    priority = "extra-high",
+    scale = 0.5,
+    size = 32
   },
   cursor_box = {
     blueprint_snap_rectangle = {
@@ -3424,6 +5194,17 @@
     x = 0,
     y = 128
   },
+  side_menu_logistic_network_hover_icon = {
+    filename = "__core__/graphics/side-menu-buttons.png",
+    flags = {
+      "gui-icon"
+    },
+    mipmap_count = 2,
+    priority = "high",
+    size = 64,
+    x = 96,
+    y = 576
+  },
   side_menu_map_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",
     flags = {
@@ -3489,6 +5270,17 @@
     size = 64,
     x = 0,
     y = 64
+  },
+  side_menu_technology_hover_icon = {
+    filename = "__core__/graphics/side-menu-buttons.png",
+    flags = {
+      "gui-icon"
+    },
+    mipmap_count = 2,
+    priority = "high",
+    size = 64,
+    x = 96,
+    y = 512
   },
   side_menu_train_hover_icon = {
     filename = "__core__/graphics/side-menu-buttons.png",

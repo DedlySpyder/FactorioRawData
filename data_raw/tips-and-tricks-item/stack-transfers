@@ -4,6 +4,7 @@
     "introduction"
   },
   image = "__base__/graphics/tips-and-tricks/stack-transfers.png",
+  image_nintendo_switch = "__base__/graphics/tips-and-tricks/stack-transfers-nintendo-switch.png",
   name = "stack-transfers",
   order = "f",
   skip_trigger = {

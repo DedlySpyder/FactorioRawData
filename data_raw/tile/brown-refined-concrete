@@ -1,81 +1,99 @@
 {
   build_sound = {
     large = {
-      {
-        filename = "__core__/sound/build-concrete-large.ogg",
-        volume = 0.5
+      switch_vibration_data = {
+        filename = "__core__/sound/build-concrete-large.bnvib",
+        gain = 0.15
       },
-      {
-        filename = "__core__/sound/build-concrete-large-1.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-large-2.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-large-3.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-large-4.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-large-5.ogg",
-        volume = 0.5
+      variations = {
+        {
+          filename = "__core__/sound/build-concrete-large.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-large-1.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-large-2.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-large-3.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-large-4.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-large-5.ogg",
+          volume = 0.5
+        }
       }
     },
     medium = {
-      {
-        filename = "__core__/sound/build-concrete-medium.ogg",
-        volume = 0.5
+      switch_vibration_data = {
+        filename = "__core__/sound/build-concrete-medium.bnvib",
+        gain = 0.15
       },
-      {
-        filename = "__core__/sound/build-concrete-medium-1.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-medium-2.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-medium-3.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-medium-4.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/build-concrete-medium-5.ogg",
-        volume = 0.5
+      variations = {
+        {
+          filename = "__core__/sound/build-concrete-medium.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-medium-1.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-medium-2.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-medium-3.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-medium-4.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/build-concrete-medium-5.ogg",
+          volume = 0.5
+        }
       }
     },
     small = {
-      {
-        filename = "__core__/sound/build-concrete-small.ogg",
-        volume = 0.4
+      switch_vibration_data = {
+        filename = "__core__/sound/build-concrete-small.bnvib",
+        gain = 0.25
       },
-      {
-        filename = "__core__/sound/build-concrete-small-1.ogg",
-        volume = 0.4
-      },
-      {
-        filename = "__core__/sound/build-concrete-small-2.ogg",
-        volume = 0.4
-      },
-      {
-        filename = "__core__/sound/build-concrete-small-3.ogg",
-        volume = 0.4
-      },
-      {
-        filename = "__core__/sound/build-concrete-small-4.ogg",
-        volume = 0.4
-      },
-      {
-        filename = "__core__/sound/build-concrete-small-5.ogg",
-        volume = 0.4
+      variations = {
+        {
+          filename = "__core__/sound/build-concrete-small.ogg",
+          volume = 0.4
+        },
+        {
+          filename = "__core__/sound/build-concrete-small-1.ogg",
+          volume = 0.4
+        },
+        {
+          filename = "__core__/sound/build-concrete-small-2.ogg",
+          volume = 0.4
+        },
+        {
+          filename = "__core__/sound/build-concrete-small-3.ogg",
+          volume = 0.4
+        },
+        {
+          filename = "__core__/sound/build-concrete-small-4.ogg",
+          volume = 0.4
+        },
+        {
+          filename = "__core__/sound/build-concrete-small-5.ogg",
+          volume = 0.4
+        }
       }
     }
   },
@@ -101,8 +119,16 @@
     r = 0.3
   },
   mined_sound = {
-    filename = "__base__/sound/deconstruct-bricks.ogg",
-    volume = 0.8
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-bricks.bnvib",
+      gain = 0.32000000000000002
+    },
+    variations = {
+      {
+        filename = "__base__/sound/deconstruct-bricks.ogg",
+        volume = 0.8
+      }
+    }
   },
   name = "brown-refined-concrete",
   needs_correction = false,

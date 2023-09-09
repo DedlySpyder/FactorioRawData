@@ -10,7 +10,7 @@
                   literal_value = -1/0 --[[-math.huge]],
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 444
+                    line_number = 503
                   },
                   type = "literal-number"
                 },
@@ -39,7 +39,7 @@
                                             {
                                               source_location = {
                                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                                line_number = 434
+                                                line_number = 493
                                               },
                                               type = "variable",
                                               variable_name = "moisture"
@@ -56,7 +56,7 @@
                                           function_name = "subtract",
                                           source_location = {
                                             filename = "__base__/prototypes/tile/tiles.lua",
-                                            line_number = 397
+                                            line_number = 456
                                           },
                                           type = "function-application"
                                         },
@@ -80,7 +80,7 @@
                                       function_name = "ridge",
                                       source_location = {
                                         filename = "__base__/prototypes/tile/tiles.lua",
-                                        line_number = 397
+                                        line_number = 456
                                       },
                                       type = "function-application"
                                     }
@@ -88,7 +88,7 @@
                                   function_name = "subtract",
                                   source_location = {
                                     filename = "__base__/prototypes/tile/tiles.lua",
-                                    line_number = 400
+                                    line_number = 459
                                   },
                                   type = "function-application"
                                 },
@@ -104,7 +104,7 @@
                               function_name = "multiply",
                               source_location = {
                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                line_number = 406
+                                line_number = 465
                               },
                               type = "function-application"
                             },
@@ -112,7 +112,7 @@
                               literal_value = -1/0 --[[-math.huge]],
                               source_location = {
                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                line_number = 406
+                                line_number = 465
                               },
                               type = "literal-number"
                             },
@@ -138,7 +138,7 @@
                       function_name = "multiply",
                       source_location = {
                         filename = "__base__/prototypes/tile/tiles.lua",
-                        line_number = 406
+                        line_number = 465
                       },
                       type = "function-application"
                     },
@@ -146,7 +146,7 @@
                       literal_value = -1/0 --[[-math.huge]],
                       source_location = {
                         filename = "__base__/prototypes/tile/tiles.lua",
-                        line_number = 451
+                        line_number = 510
                       },
                       type = "literal-number"
                     },
@@ -173,7 +173,7 @@
                                             {
                                               source_location = {
                                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                                line_number = 435
+                                                line_number = 494
                                               },
                                               type = "variable",
                                               variable_name = "aux"
@@ -190,7 +190,7 @@
                                           function_name = "subtract",
                                           source_location = {
                                             filename = "__base__/prototypes/tile/tiles.lua",
-                                            line_number = 397
+                                            line_number = 456
                                           },
                                           type = "function-application"
                                         },
@@ -214,7 +214,7 @@
                                       function_name = "ridge",
                                       source_location = {
                                         filename = "__base__/prototypes/tile/tiles.lua",
-                                        line_number = 397
+                                        line_number = 456
                                       },
                                       type = "function-application"
                                     }
@@ -222,7 +222,7 @@
                                   function_name = "subtract",
                                   source_location = {
                                     filename = "__base__/prototypes/tile/tiles.lua",
-                                    line_number = 400
+                                    line_number = 459
                                   },
                                   type = "function-application"
                                 },
@@ -238,7 +238,7 @@
                               function_name = "multiply",
                               source_location = {
                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                line_number = 406
+                                line_number = 465
                               },
                               type = "function-application"
                             },
@@ -246,7 +246,7 @@
                               literal_value = -1/0 --[[-math.huge]],
                               source_location = {
                                 filename = "__base__/prototypes/tile/tiles.lua",
-                                line_number = 406
+                                line_number = 465
                               },
                               type = "literal-number"
                             },
@@ -272,7 +272,7 @@
                       function_name = "multiply",
                       source_location = {
                         filename = "__base__/prototypes/tile/tiles.lua",
-                        line_number = 406
+                        line_number = 465
                       },
                       type = "function-application"
                     }
@@ -285,7 +285,7 @@
                   literal_value = 1/0 --[[math.huge]],
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 451
+                    line_number = 510
                   },
                   type = "literal-number"
                 }
@@ -349,7 +349,7 @@
                 seed0 = {
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 387
+                    line_number = 446
                   },
                   type = "variable",
                   variable_name = "map_seed"
@@ -368,14 +368,14 @@
                   function_name = "noise-layer-name-to-id",
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 388
+                    line_number = 447
                   },
                   type = "function-application"
                 },
                 x = {
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 384
+                    line_number = 443
                   },
                   type = "variable",
                   variable_name = "x"
@@ -383,7 +383,7 @@
                 y = {
                   source_location = {
                     filename = "__base__/prototypes/tile/tiles.lua",
-                    line_number = 385
+                    line_number = 444
                   },
                   type = "variable",
                   variable_name = "y"
@@ -392,7 +392,7 @@
               function_name = "factorio-multioctave-noise",
               source_location = {
                 filename = "__base__/prototypes/tile/tiles.lua",
-                line_number = 463
+                line_number = 522
               },
               type = "function-application"
             }
@@ -400,7 +400,7 @@
           function_name = "add",
           source_location = {
             filename = "__base__/prototypes/tile/tiles.lua",
-            line_number = 463
+            line_number = 522
           },
           type = "function-application"
         },
@@ -416,7 +416,7 @@
       function_name = "add",
       source_location = {
         filename = "__base__/prototypes/tile/tiles.lua",
-        line_number = 463
+        line_number = 522
       },
       type = "function-application"
     }

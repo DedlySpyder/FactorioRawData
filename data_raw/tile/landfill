@@ -1,75 +1,93 @@
 {
   build_sound = {
     large = {
-      {
-        filename = "__core__/sound/landfill-large.ogg",
-        volume = 0.5
+      switch_vibration_data = {
+        filename = "__core__/sound/landfill-large.bnvib",
+        gain = 0.25
       },
-      {
-        filename = "__core__/sound/landfill-large-1.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/landfill-large-2.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/landfill-large-3.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/landfill-large-4.ogg",
-        volume = 0.5
-      },
-      {
-        filename = "__core__/sound/landfill-large-5.ogg",
-        volume = 0.5
+      variations = {
+        {
+          filename = "__core__/sound/landfill-large.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/landfill-large-1.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/landfill-large-2.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/landfill-large-3.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/landfill-large-4.ogg",
+          volume = 0.5
+        },
+        {
+          filename = "__core__/sound/landfill-large-5.ogg",
+          volume = 0.5
+        }
       }
     },
     medium = {
-      {
-        filename = "__core__/sound/landfill-medium.ogg",
-        volume = 0.8
+      switch_vibration_data = {
+        filename = "__core__/sound/landfill-medium.bnvib",
+        gain = 0.25
       },
-      {
-        filename = "__core__/sound/landfill-medium-1.ogg",
-        volume = 0.8
-      },
-      {
-        filename = "__core__/sound/landfill-medium-2.ogg",
-        volume = 0.8
-      },
-      {
-        filename = "__core__/sound/landfill-medium-3.ogg",
-        volume = 0.8
-      },
-      {
-        filename = "__core__/sound/landfill-medium-4.ogg",
-        volume = 0.8
-      },
-      {
-        filename = "__core__/sound/landfill-medium-5.ogg",
-        volume = 0.8
+      variations = {
+        {
+          filename = "__core__/sound/landfill-medium.ogg",
+          volume = 0.8
+        },
+        {
+          filename = "__core__/sound/landfill-medium-1.ogg",
+          volume = 0.8
+        },
+        {
+          filename = "__core__/sound/landfill-medium-2.ogg",
+          volume = 0.8
+        },
+        {
+          filename = "__core__/sound/landfill-medium-3.ogg",
+          volume = 0.8
+        },
+        {
+          filename = "__core__/sound/landfill-medium-4.ogg",
+          volume = 0.8
+        },
+        {
+          filename = "__core__/sound/landfill-medium-5.ogg",
+          volume = 0.8
+        }
       }
     },
     small = {
-      {
-        filename = "__core__/sound/landfill-small.ogg"
+      switch_vibration_data = {
+        filename = "__core__/sound/landfill-small.bnvib",
+        gain = 0.25
       },
-      {
-        filename = "__core__/sound/landfill-small-1.ogg"
-      },
-      {
-        filename = "__core__/sound/landfill-small-2.ogg"
-      },
-      {
-        filename = "__core__/sound/landfill-small-3.ogg"
-      },
-      {
-        filename = "__core__/sound/landfill-small-4.ogg"
-      },
-      {
-        filename = "__core__/sound/landfill-small-5.ogg"
+      variations = {
+        {
+          filename = "__core__/sound/landfill-small.ogg"
+        },
+        {
+          filename = "__core__/sound/landfill-small-1.ogg"
+        },
+        {
+          filename = "__core__/sound/landfill-small-2.ogg"
+        },
+        {
+          filename = "__core__/sound/landfill-small-3.ogg"
+        },
+        {
+          filename = "__core__/sound/landfill-small-4.ogg"
+        },
+        {
+          filename = "__core__/sound/landfill-small-5.ogg"
+        }
       }
     }
   },

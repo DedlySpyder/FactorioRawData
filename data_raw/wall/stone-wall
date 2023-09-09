@@ -195,8 +195,16 @@
     result = "stone-wall"
   },
   mined_sound = {
-    filename = "__base__/sound/deconstruct-bricks.ogg",
-    volume = 0.8
+    switch_vibration_data = {
+      filename = "__core__/sound/deconstruct-bricks.bnvib",
+      gain = 0.32000000000000002
+    },
+    variations = {
+      {
+        filename = "__base__/sound/deconstruct-bricks.ogg",
+        volume = 0.8
+      }
+    }
   },
   name = "stone-wall",
   open_sound = {

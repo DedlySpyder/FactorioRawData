@@ -18,29 +18,34 @@
               target_effects = {
                 {
                   sound = {
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-1.ogg",
-                      volume = 0.4
+                    switch_vibration_data = {
+                      filename = "__base__/sound/fight/throw-projectile.bnvib"
                     },
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-2.ogg",
-                      volume = 0.4
-                    },
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-3.ogg",
-                      volume = 0.4
-                    },
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-4.ogg",
-                      volume = 0.4
-                    },
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-5.ogg",
-                      volume = 0.4
-                    },
-                    {
-                      filename = "__base__/sound/fight/throw-projectile-6.ogg",
-                      volume = 0.4
+                    variations = {
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-1.ogg",
+                        volume = 0.4
+                      },
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-2.ogg",
+                        volume = 0.4
+                      },
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-3.ogg",
+                        volume = 0.4
+                      },
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-4.ogg",
+                        volume = 0.4
+                      },
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-5.ogg",
+                        volume = 0.4
+                      },
+                      {
+                        filename = "__base__/sound/fight/throw-projectile-6.ogg",
+                        volume = 0.4
+                      }
                     }
                   },
                   type = "play-sound"

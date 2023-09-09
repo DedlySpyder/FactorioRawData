@@ -205,6 +205,11 @@
       remove = true
     },
     audible_distance_modifier = 1.95,
+    switch_vibration_data = {
+      filename = "__base__/sound/fight/large-explosion.bnvib",
+      gain = 0.6,
+      play_for = "everything"
+    },
     variations = {
       {
         filename = "__base__/sound/fight/large-explosion-1.ogg",

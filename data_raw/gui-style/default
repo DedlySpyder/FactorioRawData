@@ -2494,6 +2494,19 @@
     extra_padding_when_activated = 0,
     type = "scroll_pane_style"
   },
+  character_info_top_frame = {
+    bottom_padding = 0,
+    graphical_set = {},
+    left_padding = 12,
+    right_padding = 12,
+    top_padding = 12,
+    type = "frame_style",
+    vertical_flow_style = {
+      type = "vertical_flow_style",
+      vertical_spacing = 12
+    },
+    vertically_stretchable = "off"
+  },
   character_inventory_frame = {
     header_flow_style = {
       bottom_padding = 4,
@@ -4636,6 +4649,21 @@
     type = "flow_style",
     vertical_spacing = 0
   },
+  crafting_queue_flow_standalone = {
+    horizontal_spacing = 0,
+    left_margin = 0,
+    parent = "crafting_queue_flow",
+    right_margin = 0,
+    type = "flow_style",
+    vertical_spacing = 0
+  },
+  crafting_queue_scroll_pane = {
+    bottom_margin = 12,
+    minimal_height = 120,
+    parent = "filter_scroll_pane",
+    type = "scroll_pane_style",
+    vertically_stretchable = "on"
+  },
   crafting_queue_slot = {
     clicked_graphical_set = {
       corner_size = 8,
@@ -5543,6 +5571,32 @@
       shadow = 0 --[=[ ref [""].available_technology_slot.clicked_graphical_set.shadow ]=]
     },
     type = "technology_slot_style"
+  },
+  disk_usage_progressbar = {
+    color = {
+      218,
+      69,
+      53
+    },
+    other_colors = {
+      {
+        color = {
+          43,
+          227,
+          39
+        },
+        less_than = 0.8
+      },
+      {
+        color = {
+          219,
+          176,
+          22
+        },
+        less_than = 0.9
+      }
+    },
+    type = "progressbar_style"
   },
   double_slider = {
     button = {
@@ -8155,10 +8209,16 @@
         }
       }
     },
+    header_filler_style = {
+      height = 24,
+      horizontally_stretchable = "on",
+      left_margin = 0,
+      parent = "draggable_space_header",
+      type = "empty_widget_style"
+    },
     header_flow_style = {
-      horizontal_spacing = 4,
-      type = "horizontal_flow_style",
-      vertical_align = "top"
+      horizontal_spacing = 8,
+      type = "horizontal_flow_style"
     },
     horizontally_stretchable = "on",
     left_padding = 0,
@@ -8529,6 +8589,28 @@
     },
     parent = "draggable_space_in_train_schedule",
     type = "empty_widget_style"
+  },
+  game_controller_icons_dropdown = {
+    list_box_style = {
+      item_style = {
+        font = "default-dropdown",
+        horizontal_align = "left",
+        parent = "button",
+        type = "button_style"
+      },
+      maximal_height = 400,
+      scroll_pane_style = {
+        extra_padding_when_activated = 0,
+        graphical_set = {
+          shadow = 0 --[=[ ref [""].available_technology_slot.clicked_graphical_set.shadow ]=]
+        },
+        padding = 0,
+        type = "scroll_pane_style"
+      },
+      type = "list_box_style"
+    },
+    parent = "dropdown",
+    type = "dropdown_style"
   },
   game_info_name_and_description_flow = {
     bottom_margin = 4,
@@ -9888,6 +9970,11 @@
       1,
       1,
       1
+    },
+    game_controller_hovered_font_color = {
+      1,
+      0.68000000000000007,
+      0
     },
     rich_text_highlight_error_color = {
       b = 0,
@@ -12548,6 +12635,23 @@
     padding = 4,
     type = "frame_style",
     use_header_filler = false
+  },
+  quick_panel_slot_button_deep_frame = {
+    parent = "slot_button_deep_frame",
+    size = 120,
+    type = "frame_style"
+  },
+  quick_panel_tabbed_pane = {
+    parent = "tabbed_pane",
+    tab_content_frame = {
+      bottom_padding = 0,
+      graphical_set = 0 --[=[ ref [""].changelog_tabbed_pane.tab_content_frame.graphical_set ]=],
+      left_padding = 0,
+      right_padding = 0,
+      top_padding = 8,
+      type = "frame_style"
+    },
+    type = "tabbed_pane_style"
   },
   quickbar_holder_flow = {
     minimal_height = 96,
@@ -16494,6 +16598,10 @@
     type = "image_style",
     width = 20
   },
+  spaced_horizontal_flow = {
+    horizontal_spacing = 12,
+    type = "horizontal_flow_style"
+  },
   special_label_under_widget = {
     font_color = 0 --[=[ ref [""].caption_checkbox.font_color ]=],
     parent = "label_under_widget",
@@ -17301,6 +17409,67 @@
       }
     },
     font = "default-bold",
+    game_controller_selected_hover_graphical_set = {
+      base = {
+        corner_size = 8,
+        position = {
+          136,
+          0
+        }
+      },
+      glow = {
+        draw_type = "outer",
+        left = {
+          position = {
+            200,
+            136
+          },
+          size = {
+            8,
+            1
+          }
+        },
+        left_outer_border_shift = 4,
+        left_top = {
+          position = {
+            216,
+            0
+          },
+          size = 16
+        },
+        right = {
+          position = {
+            209,
+            136
+          },
+          size = {
+            8,
+            1
+          }
+        },
+        right_outer_border_shift = -4,
+        right_top = {
+          position = {
+            232,
+            0
+          },
+          size = 16
+        },
+        scale = 0.5,
+        tint = 0 --[=[ ref [""].back_button.hovered_graphical_set.glow.tint ]=],
+        top = {
+          position = {
+            208,
+            128
+          },
+          size = {
+            1,
+            8
+          }
+        },
+        top_outer_border_shift = 4
+      }
+    },
     horizontal_align = "center",
     hover_badge_graphical_set = {
       base = {
@@ -18414,6 +18583,16 @@
     },
     font = "default",
     font_color = {},
+    game_controller_hovered_background = {
+      base = {
+        corner_size = 8,
+        position = {
+          265,
+          0
+        }
+      },
+      shadow = 0 --[=[ ref [""].highlighted_value_textfield.active_background.shadow ]=]
+    },
     ignored_by_search = true,
     left_padding = 3,
     minimal_height = 28,

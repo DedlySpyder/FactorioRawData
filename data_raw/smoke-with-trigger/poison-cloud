@@ -65,6 +65,11 @@
                 max_count = 1,
                 remove = true
               },
+              switch_vibration_data = {
+                filename = "__base__/sound/fight/poison-capsule-explosion.bnvib",
+                gain = 0.3,
+                play_for = "everything"
+              },
               variations = {
                 {
                   filename = "__base__/sound/fight/poison-capsule-explosion-1.ogg",
