@@ -1,7 +1,7 @@
 {
   difficulty_settings = {
     recipe_difficulty = 0,
-    research_queue_setting = "after-victory",
+    research_queue_setting = "always",
     technology_difficulty = 0,
     technology_price_multiplier = 1
   },
