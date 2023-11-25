@@ -296,10 +296,12 @@
             y = 0
           },
           {
+            draw_as_light = true,
             filename = "__base__/graphics/entity/heat-exchanger/heatex-endings-heated.png",
             frame_count = 1,
             height = 32,
             hr_version = {
+              draw_as_light = true,
               filename = "__base__/graphics/entity/heat-exchanger/hr-heatex-endings-heated.png",
               frame_count = 1,
               height = 64,
@@ -344,10 +346,12 @@
             y = 0
           },
           {
+            draw_as_light = true,
             filename = "__base__/graphics/entity/heat-exchanger/heatex-endings-heated.png",
             frame_count = 1,
             height = 32,
             hr_version = {
+              draw_as_light = true,
               filename = "__base__/graphics/entity/heat-exchanger/hr-heatex-endings-heated.png",
               frame_count = 1,
               height = 64,
@@ -392,10 +396,12 @@
             y = 0
           },
           {
+            draw_as_light = true,
             filename = "__base__/graphics/entity/heat-exchanger/heatex-endings-heated.png",
             frame_count = 1,
             height = 32,
             hr_version = {
+              draw_as_light = true,
               filename = "__base__/graphics/entity/heat-exchanger/hr-heatex-endings-heated.png",
               frame_count = 1,
               height = 64,
@@ -440,10 +446,12 @@
             y = 0
           },
           {
+            draw_as_light = true,
             filename = "__base__/graphics/entity/heat-exchanger/heatex-endings-heated.png",
             frame_count = 1,
             height = 32,
             hr_version = {
+              draw_as_light = true,
               filename = "__base__/graphics/entity/heat-exchanger/hr-heatex-endings-heated.png",
               frame_count = 1,
               height = 64,
