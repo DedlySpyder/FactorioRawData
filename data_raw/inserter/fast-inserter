@@ -1,10 +1,6 @@
 {
   circuit_connector_sprites = {
     {
-      blue_led_light_offset = {
-        -0.296875,
-        0.203125
-      },
       connector_main = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-base-sequence.png",
         flags = {
@@ -14,8 +10,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0,
-          0.015625
+          0.03125,
+          0.078125
         },
         width = 52,
         x = 104,
@@ -31,8 +27,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.171875,
-          0.15625
+          0.203125,
+          0.21875
         },
         width = 56,
         x = 112,
@@ -48,8 +44,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 60,
         x = 120,
@@ -64,8 +60,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 46,
         x = 92,
@@ -81,8 +77,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 108,
@@ -102,16 +98,12 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 108,
         y = 0
-      },
-      red_green_led_light_offset = {
-        -0.375,
-        0.140625
       },
       wire_pins = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-wire-sequence.png",
@@ -122,8 +114,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.0625,
-          -0.09375
+          0.09375,
+          -0.03125
         },
         width = 62,
         x = 124,
@@ -139,8 +131,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.34375,
-          0.109375
+          0.375,
+          0.171875
         },
         width = 64,
         x = 128,
@@ -148,10 +140,6 @@
       }
     },
     {
-      blue_led_light_offset = {
-        -0.125,
-        0.28125
-      },
       connector_main = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-base-sequence.png",
         flags = 0 --[=[ ref [""].circuit_connector_sprites[1].connector_main.flags ]=],
@@ -159,8 +147,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0,
-          0.015625
+          0.03125,
+          0.078125
         },
         width = 52,
         x = 156,
@@ -174,8 +162,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.171875,
-          0.15625
+          0.203125,
+          0.21875
         },
         width = 56,
         x = 168,
@@ -189,8 +177,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 60,
         x = 180,
@@ -203,8 +191,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 46,
         x = 138,
@@ -218,8 +206,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 162,
@@ -237,16 +225,12 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 162,
         y = 0
-      },
-      red_green_led_light_offset = {
-        -0.234375,
-        0.25
       },
       wire_pins = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-wire-sequence.png",
@@ -255,8 +239,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.0625,
-          -0.09375
+          0.09375,
+          -0.03125
         },
         width = 62,
         x = 186,
@@ -270,8 +254,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.34375,
-          0.109375
+          0.375,
+          0.171875
         },
         width = 64,
         x = 192,
@@ -279,10 +263,6 @@
       }
     },
     {
-      blue_led_light_offset = {
-        -0.375,
-        -0.03125
-      },
       connector_main = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-base-sequence.png",
         flags = 0 --[=[ ref [""].circuit_connector_sprites[1].connector_main.flags ]=],
@@ -290,8 +270,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0,
-          0.015625
+          0.03125,
+          0.078125
         },
         width = 52,
         x = 0,
@@ -305,8 +285,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.171875,
-          0.15625
+          0.203125,
+          0.21875
         },
         width = 56,
         x = 0,
@@ -320,8 +300,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 60,
         x = 0,
@@ -334,8 +314,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 46,
         x = 0,
@@ -349,8 +329,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 0,
@@ -368,16 +348,12 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 0,
         y = 0
-      },
-      red_green_led_light_offset = {
-        -0.328125,
-        -0.140625
       },
       wire_pins = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-wire-sequence.png",
@@ -386,8 +362,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.0625,
-          -0.09375
+          0.09375,
+          -0.03125
         },
         width = 62,
         x = 0,
@@ -401,8 +377,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.34375,
-          0.109375
+          0.375,
+          0.171875
         },
         width = 64,
         x = 0,
@@ -410,10 +386,6 @@
       }
     },
     {
-      blue_led_light_offset = {
-        0.21875,
-        0.234375
-      },
       connector_main = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-base-sequence.png",
         flags = 0 --[=[ ref [""].circuit_connector_sprites[1].connector_main.flags ]=],
@@ -421,8 +393,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0,
-          0.015625
+          0.03125,
+          0.078125
         },
         width = 52,
         x = 52,
@@ -436,8 +408,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.171875,
-          0.15625
+          0.203125,
+          0.21875
         },
         width = 56,
         x = 56,
@@ -451,8 +423,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 60,
         x = 60,
@@ -465,8 +437,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.046875,
-          0.0625
+          -0.015625,
+          0.125
         },
         width = 46,
         x = 46,
@@ -480,8 +452,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 54,
@@ -499,16 +471,12 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          -0.09375,
-          0.015625
+          -0.0625,
+          0.078125
         },
         width = 54,
         x = 54,
         y = 0
-      },
-      red_green_led_light_offset = {
-        0.109375,
-        0.296875
       },
       wire_pins = {
         filename = "__base__/graphics/entity/circuit-connector/hr-ccm-inserter-01-wire-sequence.png",
@@ -517,8 +485,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.0625,
-          -0.09375
+          0.09375,
+          -0.03125
         },
         width = 62,
         x = 62,
@@ -532,8 +500,8 @@
         priority = "extra-high",
         scale = 0.5,
         shift = {
-          0.34375,
-          0.109375
+          0.375,
+          0.171875
         },
         width = 64,
         x = 64,
@@ -545,21 +513,21 @@
     {
       shadow = {
         green = {
-          0.65625,
+          0.6875,
           0.484375
         },
         red = {
-          0.75,
+          0.78125,
           0.328125
         }
       },
       wire = {
         green = {
-          0.359375,
+          0.390625,
           0.25
         },
         red = {
-          0.484375,
+          0.515625,
           0.109375
         }
       }
@@ -567,43 +535,43 @@
     {
       shadow = {
         green = {
-          -0.125,
+          -0.09375,
           -0.046875
         },
         red = {
-          0.109375,
+          0.140625,
           -0.125
         }
       },
       wire = {
         green = {
-          -0.40625,
+          -0.34375,
           -0.28125
         },
         red = {
-          -0.203125,
-          -0.359375
+          -0.171875,
+          -0.328125
         }
       }
     },
     {
       shadow = {
         green = {
-          0.75,
+          0.78125,
           0.15625
         },
         red = {
-          0.640625,
+          0.671875,
           -0.015625
         }
       },
       wire = {
         green = {
-          0.46875,
+          0.5,
           -0.078125
         },
         red = {
-          0.375,
+          0.40625,
           -0.25
         }
       }
@@ -611,21 +579,21 @@
     {
       shadow = {
         green = {
-          0.640625,
+          0.671875,
           -0.03125
         },
         red = {
-          0.4375,
+          0.46875,
           -0.140625
         }
       },
       wire = {
         green = {
-          0.375,
+          0.40625,
           -0.25
         },
         red = {
-          0.203125,
+          0.234375,
           -0.34375
         }
       }
