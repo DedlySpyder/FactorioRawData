@@ -603,6 +603,7 @@
   close_sound = {
     {
       filename = "__base__/sound/machine-close.ogg",
+      preload = true,
       volume = 0.5
     }
   },
@@ -769,6 +770,7 @@
   open_sound = {
     {
       filename = "__base__/sound/machine-open.ogg",
+      preload = true,
       volume = 0.5
     }
   },
@@ -854,22 +856,27 @@
     sound = {
       {
         filename = "__base__/sound/inserter-basic-1.ogg",
+        preload = true,
         volume = 0.5
       },
       {
         filename = "__base__/sound/inserter-basic-2.ogg",
+        preload = true,
         volume = 0.5
       },
       {
         filename = "__base__/sound/inserter-basic-3.ogg",
+        preload = true,
         volume = 0.5
       },
       {
         filename = "__base__/sound/inserter-basic-4.ogg",
+        preload = true,
         volume = 0.5
       },
       {
         filename = "__base__/sound/inserter-basic-5.ogg",
+        preload = true,
         volume = 0.5
       }
     }

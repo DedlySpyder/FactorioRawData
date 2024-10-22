@@ -981,6 +981,7 @@
   close_sound = {
     {
       filename = "__base__/sound/machine-close.ogg",
+      preload = true,
       volume = 0.5
     }
   },
@@ -1169,6 +1170,7 @@
   open_sound = {
     {
       filename = "__base__/sound/machine-open.ogg",
+      preload = true,
       volume = 0.5
     }
   },

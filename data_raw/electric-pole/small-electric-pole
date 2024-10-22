@@ -2,6 +2,7 @@
   close_sound = {
     {
       filename = "__base__/sound/electric-network-close.ogg",
+      preload = true,
       volume = 0.6
     }
   },
@@ -189,6 +190,7 @@
   open_sound = {
     {
       filename = "__base__/sound/electric-network-open.ogg",
+      preload = true,
       volume = 0.6
     }
   },
